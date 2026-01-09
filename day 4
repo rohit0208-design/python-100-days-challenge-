@@ -1,0 +1,6 @@
+#2 . check the following number is zero or not
+n = int(input("enter the number :"))
+if n ==0:
+   print("the number is  zero")
+else:
+    print("the number is not zero ")
