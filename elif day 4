@@ -1,0 +1,11 @@
+#4. number that even and +ve , -ve , odd +ve,-ve
+n=int(input("enter the number"))
+if n%2==0 and n>-1:
+    print("the number is even and postive ")
+elif n%2==1 and n>-1:
+    print("the number is odd and postive")
+elif n%2==o and n<-1:
+    print("the number is negative and even ")
+elif n%2==1 and n<-1:
+    print(" the number is negative and odd ")
+    
